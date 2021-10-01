@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alpaca_homettest_masjaya", "alpaca_homettest_masjaya.csproj", "{356B8B02-6B01-4BB7-BA97-332BBCB1F5D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356B8B02-6B01-4BB7-BA97-332BBCB1F5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356B8B02-6B01-4BB7-BA97-332BBCB1F5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356B8B02-6B01-4BB7-BA97-332BBCB1F5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356B8B02-6B01-4BB7-BA97-332BBCB1F5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE2178C-81F1-4CF4-9C08-E4BE9F255B99}
+	EndGlobalSection
+EndGlobal
